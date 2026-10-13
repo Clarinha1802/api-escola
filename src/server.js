@@ -1,3 +1,5 @@
+// Ana Clara e Kemilly
+
 const express = require('express')// importando o express
 const sequelize = require('./config/banco')
 
